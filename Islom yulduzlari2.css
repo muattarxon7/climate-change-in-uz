@@ -1,0 +1,95 @@
+.welcome{
+	width: 1200px;
+	margin-bottom: 10px;
+}
+.navbar{
+	width: 1200px;
+	height: 80px;
+	background: purple;
+	color: white;
+	margin: 0 auto;
+}
+.navbar h2 , .navbar i , .navbar .linklar{
+	display: inline-block;
+}
+.navbar h2{
+	margin-left: 15px;
+	margin-top: 5px;
+	font-family: Kunstler Script;
+	font-size: 50px;
+}
+.navbar i{
+	margin-left: 15px;
+	font-size: 25px;
+	color: white;
+}
+.navbar i:hover{
+	color: pink;
+	transition: 0.5s;
+}
+.navbar .linklar{
+	float: right;
+}
+.navbar .linklar a{
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+	line-height: 80px;
+	margin-right: 10px;
+}
+.navbar .linklar a:hover{
+	color: pink;
+	transition: 1.2s;
+}
+.navbar .linklar button{
+	font-size: 15px;
+	margin-top: 20px;
+	margin-right: 10px;
+	width: 100px;
+	padding: 10px;
+	background: lightblue;
+	border: 0.5px solid grey;
+	border-radius: 5px; 
+}
+.navbar .linklar button:hover{
+	background: blue;
+	transition: 1s;
+	color: white;
+}
+iframe{
+	width: 1200px;
+	margin-top: 30px;
+	height: 500px;
+}
+.iqro{
+	text-align: center;
+	font-size: 50px;
+}
+.oqi{
+	width: 1200px;
+}
+.sababi{
+	margin: 0 auto;
+	text-align: center;
+	width: 1200px;
+	margin-top: 10px;
+}
+.sababi2{
+	margin: 0 auto;
+	text-align: justify;
+	width: 1200px;
+	margin-top: 10px;
+}
+.futer{
+	width: 1200px;
+	margin: 0 auto;
+	height: 200px;
+	background-image: url("fon.jpg");
+	background-size: 100%;
+	color: white;
+	background-repeat:no-repeat;
+	margin-top: 30px;
+}
+.futer .tel{
+	padding-top: 20px;
+}
